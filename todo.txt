@@ -1,0 +1,15 @@
+Performance Metrics:
+BRISQUE and NIQE (No Reference)
+Learned Perceptual Image Patch Similarity (LPIPS)
+
+
+atm:
+1) loss and performance Metrics
+2) result or super resolve
+
+
+To Do:
+1) Make code integrated
+2) Implement SRCNN
+
+
